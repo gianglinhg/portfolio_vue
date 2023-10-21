@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HTML5",
+    "image": "/skills/html.png"
+  },
+  {
+    "name": "CSS",
+    "image": "/skills/css.png"
+  },
+  {
+    "name": "Laravel",
+    "image": "/skills/laravel.png"
+  },
+  {
+    "name": "Nodejs",
+    "image": "/skills/nodejs.png"
+  },
+  {
+    "name": "Vuejs",
+    "image": "/skills/vuejs.png"
+  },
+  {
+    "name": "Php",
+    "image": "/skills/php.png"
+  },
+  {
+    "name": "Javascript",
+    "image": "/skills/js.png"
+  }
+]

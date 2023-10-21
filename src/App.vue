@@ -4,7 +4,9 @@
     <Promote />
     <About />
         <!-- Skills tail 100 -->
+    <Skills/>
         <!-- Portfolio Primary -->
+        <!-- <Portfolio :skills="skills" :projects="projects"/> -->
     <Service />
     <ContactMe />
   </Master>
@@ -17,4 +19,6 @@ import Promote from './components/Promote.vue';
 import About from './components/About.vue';
 import Service from './components/Service.vue';
 import ContactMe from './components/ContactMe.vue';
+import Skills from './components/Skills.vue';
+import { ref } from 'vue';
 </script>
